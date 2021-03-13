@@ -1,7 +1,7 @@
 
 
 # 基于github action的京东自动化签到
-
+[![JD_Sign_Action](https://github.com/YaSaXii/JD_Sign_Action/actions/workflows/work.yaml/badge.svg)](https://github.com/YaSaXii/JD_Sign_Action/actions/workflows/work.yaml)
 ## 介绍
 
 > 使用NobyDa “京东多合一签到脚本”为基础，移植到github actions自动化执行。
